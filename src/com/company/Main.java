@@ -15,6 +15,11 @@ public class Main {
         mikesun.temp = "22222222222 C";
         mikesun.radius = "23423593847 km";
 
+        //planet2 features
+        planet2 palnet = new planet2();
+        palnet.color= "red";
+        palnet.size = "453454645";
+        palnet.status = "fool";
 
     }
 }
