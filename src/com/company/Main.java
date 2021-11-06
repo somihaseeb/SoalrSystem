@@ -10,10 +10,10 @@ public class Main {
         andromeda.moon =4;
 
         featureSun mikesun = new featureSun();
-        mikesun.color = "blue";
-        mikesun.heat = "23985473985698";
-        mikesun.temp = "234235242C";
-        mikesun.radius = "234235";
+        mikesun.color = "red";
+        mikesun.heat = "555555555555 K";
+        mikesun.temp = "22222222222 C";
+        mikesun.radius = "23423593847 km";
 
 
     }
