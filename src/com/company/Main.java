@@ -15,6 +15,11 @@ public class Main {
         mikesun.temp = "22222222222 C";
         mikesun.radius = "23423593847 km";
 
+        planet1 astronut = new planet1();
+        astronut.color= "grey";
+        astronut.size = "234345435";
+        astronut.relation = "crazy";
+        
 
     }
 }
